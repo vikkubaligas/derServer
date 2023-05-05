@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
+    "username": "dvr",
+    "password": "dvr2022",
+    "database": "der_v3",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
